@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Form from "../testform";
+import Form from "../form";
 import CourseCard from "./courseCard/courseCard";
 
 import Cards_data from "./state";
