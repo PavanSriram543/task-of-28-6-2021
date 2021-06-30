@@ -67,7 +67,7 @@ class CoueseCards extends Component {
               data-bs-toggle="modal"
               data-bs-target="#exampleModal"
             >
-              Add custom course{" "}
+              Add custom course
             </button>
             <div
               className="modal fade"
@@ -80,7 +80,7 @@ class CoueseCards extends Component {
                 <div className="modal-content">
                   <div className="modal-header">
                     <h5 className="modal-title" id="exampleModalLabel">
-                      add your custom course here{" "}
+                      add your custom course here
                     </h5>
                     <button
                       type="button"
